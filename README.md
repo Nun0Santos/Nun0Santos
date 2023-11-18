@@ -1,6 +1,6 @@
 
 
-- 🌱 Computer Engineering Student
+- 🌱 Computer Engineering 
 ##
 <div>
   <a href="https://github.com/Nun0Santos">
