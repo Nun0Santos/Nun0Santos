@@ -1,6 +1,12 @@
-<h1 align="center">hey there 👋</h1>
+# Hi, I'm Nuno Santos 👋🏼
 
-###
-<br clear="both">
+I'm a Software Engineer from Portugal and a co-founder of [Artifi Labs](https://artifilabs.io/), where I develop software across Web2 and Web3 ecosystems.
 
-<img src="https://raw.githubusercontent.com/nun0santos/nun0santos/output/snake.svg" alt="Snake animation" />
+## GitHub stats
+
+![Metrics](./github-metrics.svg)
+
+## Connect with me
+
+[![X](https://img.shields.io/badge/-@Nuno__Santos-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/Nunoo_Santos)
+[![LinkedIn](https://img.shields.io/badge/-Nuno_Santos-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nunoaasantos)
