@@ -25,6 +25,11 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Lisbon
 
+          extras_css: |
+            footer span:first-child {
+              display: none;
+            }
+
           plugin_languages: yes
           plugin_languages_ignored: html, css, scss, less, dockerfile, makefile, shell, blade, twig, smarty, hcl
           plugin_languages_details: bytes-size, percentage
